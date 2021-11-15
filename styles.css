@@ -145,7 +145,7 @@ body {
   padding-top: 40px;
 }
 .contacts {
-  margin: 50px 0 0 40px;
+  margin: 50px 0 0 20px;
 }
 .Belarus {
   font-style: normal;
@@ -173,7 +173,7 @@ body {
 }
 
 .Languages {
-  margin: 50px 50px 0 40px;
+  margin: 50px 50px 0 20px;
 }
 
 .Intermediate {
@@ -193,11 +193,11 @@ body {
 }
 
 .Additional-education {
-  margin: 50px 0 0 40px;
+  margin: 50px 0 0 20px;
 }
 
 .Education {
-  margin: 50px 0 0 40px;
+  margin: 50px 0 0 20px;
 }
 
 .sidebar_title {
